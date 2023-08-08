@@ -1,0 +1,28 @@
+body{background-color:bisque;}
+
+img{width:200px ;}
+
+div{
+    border:2px solid rebeccapurple;
+    margin: 10px 7px 3px 2px;
+   /* margin-left: 20px;*/
+   padding-top: 30px;
+
+ }
+
+nav{ border: 2px solid black;}
+
+/*nav{margin-left: 2px;}*/
+
+.batas{margin-left: 200px;}
+
+.warna {background-color: aqua;}
+
+#background{
+    background-color: aqua;
+    position:static;
+    top: 200px;        
+
+}
+
+#kiri{margin-left: 200px;}
